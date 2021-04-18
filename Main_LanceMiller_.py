@@ -1,4 +1,5 @@
 import math
+# I am enabling myself to use math
 # Lance Miller
 # This is a combination of our programming exercises and code
 # that was demonstrated in our resources
@@ -134,8 +135,6 @@ print("If you were to buy ", numTwo + " orders of that carnival food, "
       format(carnTwo, ".02f"), sep='')
 # Here I use a sep= argument to show a total cost
 
-
-# I am enabling myself to use math
 
 print("For this next part, I am going to ask you for a number.")
 # I am addressing the user
